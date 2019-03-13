@@ -1,0 +1,7 @@
+https://desarrolloweb.com/articulos/primer-progressive-web-app-ionic.html
+
+http://localhost:8100/#/tabs-page/conference-schedule/schedule
+
+https://code.tutsplus.com/es/tutorials/code-your-first-ionic-2-app-getting-set-up--cms-28471
+
+agendapwa-58867
